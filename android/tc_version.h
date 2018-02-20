@@ -1,0 +1,11 @@
+#ifndef H_TC_VERSION
+#define H_TC_VERSION
+
+#define TC_VERSION 2
+#define TC_PATCHLEVEL 8
+#define TC_EXTRAVERSION "dev"
+#define TRACECMD_VERSION "2.8.dev"
+#define VERSION_STRING TRACECMD_VERSION
+#define FILE_VERSION 6
+
+#endif
